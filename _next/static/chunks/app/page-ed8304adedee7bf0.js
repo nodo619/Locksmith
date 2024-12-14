@@ -173,7 +173,7 @@
                     contact: ""
                 }), l = async () => {
                     try {
-                        if ((await fetch("https://byxsl07zsh.execute-api.eu-north-1.amazonaws.com/Testing", {
+                        if ((await fetch("https://0ay4xcybce.execute-api.eu-north-1.amazonaws.com/AlocksmithsProd", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
